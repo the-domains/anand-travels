@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Anand Travels]]></title>
         <description><![CDATA[Anand Travels]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/anand-travels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 18:00:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 07:01:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/anand-travels/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[8 Nifty Little Items You Never Pack...But Should]]></title>
+            <description><![CDATA[<article><h1>8 Nifty Little Items You Never Pack...But Should</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/171e9b6e412f28b14fa6d4d12dee38c8d94f726b.jpg"></article>]]></description>
+            <link>http://www.budgettravel.com/slideshow/8-items-you-never-packbut-should,7820/#pic=1</link>
+            <guid isPermaLink="false">495a392f-cfce-48cf-9727-5aead61fbd39</guid>
+            <pubDate>Sat, 02 Apr 2016 07:00:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kerala Tourism]]></title>
             <description><![CDATA[<article><h1>Kerala Tourism</h1><p>Kerala, God's Own Country, located on the Southwestern tip of India, enjoys unique geographical features that have made it one of the most sought-after tourist destinations in Asia. Kerala was selected by the National Geographic Traveller as one of the 50 destinations of a lifetime and one of the thirteen paradises in the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78d3f0ac22b62fd49237630956214b6a087cb338.jpg"></article>]]></description>
