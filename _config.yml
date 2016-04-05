@@ -1,7 +1,7 @@
 name: Anand Travels
 favicon: null
-layout_spectrum: 0.14941809209994972
-typography_spectrum: 0.03897411213256419
+layout_spectrum: 0.7491
+typography_spectrum: 0.53748
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.6873014802113175
-  lightness: 0.7840926626231521
-  saturation: 0.29815144813619554
-  rhythmicContrast: 0.706591826165095
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
