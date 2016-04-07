@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Our Affiliations
-datePublished: '2016-04-07T04:56:01.428Z'
-dateModified: '2016-04-07T04:55:34.070Z'
+datePublished: '2016-04-07T04:59:58.795Z'
+dateModified: '2016-04-07T04:56:08.311Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-05-our-affiliations.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-our-affiliations.md
-published: true
 url: our-affiliations/index.html
 _type: WebPage
 
