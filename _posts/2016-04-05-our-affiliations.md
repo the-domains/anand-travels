@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-08T01:58:10.141Z'
-dateModified: '2016-04-07T11:28:09.537Z'
+datePublished: '2016-04-08T03:15:27.213Z'
+dateModified: '2016-04-08T03:15:26.036Z'
 title: Our Affiliations
 author: []
 sourcePath: _posts/2016-04-05-our-affiliations.md
@@ -32,12 +32,12 @@ Our association with the following organizations further endorses the dedication
 
 PATA (Pacific Asia Travel Association) 
 
-MATTA (Malaysian Association of Tour and Travel Agents) ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd169229-bee0-4124-939e-af11ef2b189a.png)
+MATTA (Malaysian Association of Tour and Travel Agents) ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f764d6b9d7fb4fcde210d44c167c99fa122ad07.png)
 
 MITA (Malaysian Indian Travel & Tour Association) 
 
 Our company has access to all major Airlines Worldwide. This is due to our partnership with our prefered Technology Partner 'AMADEUS'. (An Information Technology Base for data and processing system linking the world's major Airlines, Hotels and Car Rental Operators).
 LOGOS
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fae6bcb-6f97-4291-ab59-785d707bfaaa.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b913cc348265e165038a929000d8c354bf7b3949.png)
 
 [0]: iata.org
