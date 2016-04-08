@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Our Affiliations
-datePublished: '2016-04-07T04:59:58.795Z'
-dateModified: '2016-04-07T04:56:08.311Z'
-title: ''
+description: ''
+datePublished: '2016-04-08T01:58:10.141Z'
+dateModified: '2016-04-07T11:28:09.537Z'
+title: Our Affiliations
 author: []
 sourcePath: _posts/2016-04-05-our-affiliations.md
 published: true
