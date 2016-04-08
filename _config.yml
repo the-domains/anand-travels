@@ -1,6 +1,6 @@
 name: Anand Travels
 favicon: null
-layout_spectrum: 0.7491
+layout_spectrum: 1
 typography_spectrum: 0.82165
 title: Your trip is our priority
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#181818'
-    - '#e16843'
-    - '#9a301d'
-    - '#facca4'
-    - '#7f6a62'
-  brandStrength: 0.6875
-  lightness: 0.6875
-  saturation: 0.1875
-  rhythmicContrast: 0.75
+    - '#1c3089'
+    - '#ffeefe'
+    - '#5dabdc'
+    - '#91def2'
+    - '#f067e9'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
