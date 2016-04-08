@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-08T03:15:27.213Z'
-dateModified: '2016-04-08T03:15:26.036Z'
+datePublished: '2016-04-08T12:51:17.092Z'
+dateModified: '2016-04-08T12:50:36.666Z'
 title: Our Affiliations
 author: []
 sourcePath: _posts/2016-04-05-our-affiliations.md
