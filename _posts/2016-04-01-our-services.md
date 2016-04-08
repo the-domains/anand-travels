@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Over 600 airlines worldwide and we could make confirmation on the spot. We handle all your ticketing needs – domestic and around the world.\n\n\_"
-datePublished: '2016-04-05T06:33:21.560Z'
-dateModified: '2016-04-05T06:33:12.783Z'
+datePublished: '2016-04-08T03:31:06.143Z'
+dateModified: '2016-04-05T06:36:07.180Z'
 title: Our Services
 author: []
 sourcePath: _posts/2016-04-01-our-services.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: our-services/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Our Services
