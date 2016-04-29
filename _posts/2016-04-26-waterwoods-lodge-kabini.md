@@ -1,14 +1,16 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-26T06:56:37.052Z'
-dateModified: '2016-04-23T02:27:31.122Z'
+datePublished: '2016-04-29T01:09:30.435Z'
+dateModified: '2016-04-26T06:59:30.033Z'
 title: Waterwoods Lodge Kabini
 author: []
+sourcePath: _posts/2016-04-26-waterwoods-lodge-kabini.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,10 +18,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-26-waterwoods-lodge-kabini.md
-published: true
 url: waterwoods-lodge-kabini/index.html
-_type: WebPage
+_type: Article
 
 ---
 ## Waterwoods Lodge Kabini
