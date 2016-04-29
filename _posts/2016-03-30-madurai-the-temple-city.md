@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "Tamil Nadu travel guide will takes you to another temple city of South India. Madurai is the second largest city of the state of Tamil Nadu. It is famous for its temples, especially for the celebrated Meenakshi Temple. Situated on the banks of river Vaigai, it derives its name from the divine nectar (Madhu) that was showered from the locks of Lord Shiva according to a popular legend. The city has a rich cultural heritage which it has inherited from the great Tamil era, which is more than 2500 years old. Once the capital of the great Pandya kings, Madurai, was an important cultural and commercial center even as early as 550AD. \nToday, Madurai is a well-known producer of some of the finest textiles in India and some of the best harvests of jasmine flowers. The city of Madurai is also mentioned in Megasthenes' Indica. He was an ancient Greek diplomat and envoy to India in the 3rd century BC , who wrote praises about this temple city. Madurai's glory reached its peak, during the reign of the Cholas and then during the Pandyas' regime in the 13th century."
-datePublished: '2016-04-08T03:35:10.404Z'
-dateModified: '2016-04-08T03:34:56.409Z'
+datePublished: '2016-04-29T01:13:20.430Z'
+dateModified: '2016-04-09T01:38:03.414Z'
 title: 'Madurai, The Temple City'
 author: []
 sourcePath: _posts/2016-03-30-madurai-the-temple-city.md
