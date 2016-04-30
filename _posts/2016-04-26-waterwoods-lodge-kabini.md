@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-29T01:43:59.581Z'
-dateModified: '2016-04-29T01:09:38.136Z'
+datePublished: '2016-04-30T13:08:29.565Z'
+dateModified: '2016-04-30T13:08:28.740Z'
 title: Waterwoods Lodge Kabini
 author: []
 sourcePath: _posts/2016-04-26-waterwoods-lodge-kabini.md
