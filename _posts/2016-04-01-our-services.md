@@ -3,21 +3,19 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: "Over 600 airlines worldwide and we could make confirmation on the spot. We handle all your ticketing needs – domestic and around the world.\n\n\_"
-datePublished: '2016-04-08T03:31:06.143Z'
-dateModified: '2016-04-05T06:36:07.180Z'
+description: >-
+  Over 600 airlines worldwide and we could make confirmation on the spot. We
+  handle all your ticketing needs – domestic and around the world. 
+datePublished: '2016-07-29T03:59:20.378Z'
+dateModified: '2016-07-29T03:59:19.619Z'
 title: Our Services
 author: []
 sourcePath: _posts/2016-04-01-our-services.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 url: our-services/index.html
 _type: WebPage
 
@@ -28,8 +26,7 @@ We offer a wide array of travel related services. Some of them are listed below 
 
 SIX HUNDRED AIRLINES WORLDWIDE 
 
-Over 600 airlines worldwide and we could make confirmation on the spot. We handle all your ticketing needs -- domestic and around the world.
- 
+Over 600 airlines worldwide and we could make confirmation on the spot. We handle all your ticketing needs -- domestic and around the world. 
 
 AVAILABILITY AND CONFIRMATION 
 
