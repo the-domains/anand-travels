@@ -3,21 +3,17 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-08T12:51:17.092Z'
-dateModified: '2016-04-08T12:50:36.666Z'
-title: Our Affiliations
+description: Our Affiliations
+datePublished: '2016-07-29T03:59:52.310Z'
+dateModified: '2016-07-29T03:59:51.612Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-05-our-affiliations.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 url: our-affiliations/index.html
 _type: WebPage
 
