@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About Us
+    id: dddb0cc6-9839-4e90-a340-93e59435c59d
+    type: content
 favicon: null
 title: Your trip is our priority
 purpose: []
