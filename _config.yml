@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Our Services
-    id: 86af0167-ef11-40d5-a8e0-72d7bfaefa6d
-    type: content
   - name: Our Affiliations
     id: 9d2cdfd7-a4ec-4e13-aca4-ba6519d58a65
     type: content
