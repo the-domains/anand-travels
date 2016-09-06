@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Our Affiliations
-    id: 9d2cdfd7-a4ec-4e13-aca4-ba6519d58a65
-    type: content
 favicon: null
 title: Your trip is our priority
 purpose: []
