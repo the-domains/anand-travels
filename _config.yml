@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: About Us
-    id: dddb0cc6-9839-4e90-a340-93e59435c59d
-    type: content
   - name: Our Services
     id: 86af0167-ef11-40d5-a8e0-72d7bfaefa6d
     type: content
